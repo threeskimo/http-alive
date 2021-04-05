@@ -19,8 +19,8 @@ if [[ -f "results.txt" ]]; then
 	rm -f results.txt
 else
 	echo "\"results.txt\" will be created."
-
 fi
+
 echo -e "\033[1;33m-----------------------------------------------------------\033[0m"
 
 # CURL us some URLs
