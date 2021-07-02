@@ -8,6 +8,6 @@ Because I needed a way to check a large list of URLs to see if they were alive.
 
 ## Usage
 ```
-alive.sh [<list_of_urls_to_check.txt>]
+./http-alive.sh [<list_of_urls_to_check.txt>]
 ```
 
